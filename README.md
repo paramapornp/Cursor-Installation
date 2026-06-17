@@ -41,11 +41,12 @@ I have thoroughly reviewed and synthesized these sources to ensure deep alignmen
 3. **Drafting & Refining:** Draft with AI, refine with "Human Layer" (experience, data, and unique POV).
 4. **Distribution:** Deploy content across multiple platforms to build long-term topical authority.
 
-## Project Structure
+### Project Structure
 ```text
 .
 ├── research/
 │   ├── linkedin-posts/      # Knowledge base from 10 high-signal experts
-│   └── youtube-transcripts/ # Summaries from core video assets
-├── sources.md               # Master list of experts & research criteria
+│   ├── youtube-transcripts/ # Summaries from core video assets
+│   ├── sources.md           # List of experts & research criteria
+│   └── others/              # Miscellaneous research and supplemental docs
 └── README.md                # Project documentation
